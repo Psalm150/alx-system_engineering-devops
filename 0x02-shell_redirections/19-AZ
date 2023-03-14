@@ -1,2 +1,2 @@
 #!/bin/bah
-tr "Ac" "Ze"
+tr Ac Ze
